@@ -14,7 +14,6 @@ html, body { height: 100%; }
 
 body {
   background-image: url('https://lh3.googleusercontent.com/-0Nt-22fQf2k/UmmQYMYfeoI/AAAAAAAAANE/Px_bN-1mAp8/s350-no/wild_flowers.png');
-  background-repeat: repeat-y;
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
@@ -45,7 +44,7 @@ ul.posts li {
 }
 
 ul.posts span {
-  color: #aaa;
+  color: #000;
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
 }
@@ -83,7 +82,7 @@ ul.posts span {
 }
 
 .site .header a.extra {
-  color: #aaa;
+  color: #fff;
   margin-left: 1em;
 }
 
