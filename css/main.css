@@ -13,7 +13,8 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
+  background-image: url('https://lh3.googleusercontent.com/-0Nt-22fQf2k/UmmQYMYfeoI/AAAAAAAAANE/Px_bN-1mAp8/s350-no/wild_flowers.png');
+  background-repeat: repeat-y;
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
